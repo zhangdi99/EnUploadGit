@@ -41,6 +41,7 @@ namespace 重点用能数据上传
             return retString;
         }
 
+        //20200611通过测试
         public static string Post(string Url, string Data, string Referer)
         {
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(Url);
