@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasses1">
+  <DataContextMoniker Name="/energyDbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e5831cbd-8e28-46fb-8452-c04c450aa6ec" absoluteBounds="5.375, 2.5, 2, 2.2764815266927076">
+      <DataClassMoniker Name="/energyDbDataContext/energyData" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6ee7960d-8689-4202-8286-7d505308d71a" absoluteBounds="5.39, 2.96, 1.9700000000000002, 1.7164815266927083" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

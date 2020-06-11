@@ -1,0 +1,25 @@
+D:\My Documents\工程\重点用能上传\重点用能数据上传\bin\Debug\重点用能数据上传.exe.config
+D:\My Documents\工程\重点用能上传\重点用能数据上传\bin\Debug\重点用能数据上传.exe
+D:\My Documents\工程\重点用能上传\重点用能数据上传\bin\Debug\重点用能数据上传.pdb
+D:\My Documents\工程\重点用能上传\重点用能数据上传\bin\Debug\Newtonsoft.Json.dll
+D:\My Documents\工程\重点用能上传\重点用能数据上传\bin\Debug\Newtonsoft.Json.xml
+D:\My Documents\工程\重点用能上传\重点用能数据上传\obj\Debug\重点用能数据上传.csprojAssemblyReference.cache
+D:\My Documents\工程\重点用能上传\重点用能数据上传\obj\Debug\重点用能数据上传.FrmMain.resources
+D:\My Documents\工程\重点用能上传\重点用能数据上传\obj\Debug\重点用能数据上传.Properties.Resources.resources
+D:\My Documents\工程\重点用能上传\重点用能数据上传\obj\Debug\重点用能数据上传.csproj.GenerateResource.cache
+D:\My Documents\工程\重点用能上传\重点用能数据上传\obj\Debug\重点用能数据上传.csproj.CoreCompileInputs.cache
+D:\My Documents\工程\重点用能上传\重点用能数据上传\obj\Debug\重点用能数据上传.csproj.CopyComplete
+D:\My Documents\工程\重点用能上传\重点用能数据上传\obj\Debug\重点用能数据上传.exe
+D:\My Documents\工程\重点用能上传\重点用能数据上传\obj\Debug\重点用能数据上传.pdb
+D:\重点用能上传\重点用能数据上传\bin\Debug\重点用能数据上传.exe.config
+D:\重点用能上传\重点用能数据上传\bin\Debug\重点用能数据上传.exe
+D:\重点用能上传\重点用能数据上传\bin\Debug\重点用能数据上传.pdb
+D:\重点用能上传\重点用能数据上传\bin\Debug\Newtonsoft.Json.dll
+D:\重点用能上传\重点用能数据上传\bin\Debug\Newtonsoft.Json.xml
+D:\重点用能上传\重点用能数据上传\obj\Debug\重点用能数据上传.csprojAssemblyReference.cache
+D:\重点用能上传\重点用能数据上传\obj\Debug\重点用能数据上传.FrmMain.resources
+D:\重点用能上传\重点用能数据上传\obj\Debug\重点用能数据上传.Properties.Resources.resources
+D:\重点用能上传\重点用能数据上传\obj\Debug\重点用能数据上传.csproj.GenerateResource.cache
+D:\重点用能上传\重点用能数据上传\obj\Debug\重点用能数据上传.csproj.CopyComplete
+D:\重点用能上传\重点用能数据上传\obj\Debug\重点用能数据上传.exe
+D:\重点用能上传\重点用能数据上传\obj\Debug\重点用能数据上传.pdb
